@@ -1,4 +1,4 @@
-FreeCodeCamp Image Search Abstraction Layer
+FreeCodeCamp File Metadata Microservice 
 ===========
 
 Freecodecamp API project
